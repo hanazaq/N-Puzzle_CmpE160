@@ -22,4 +22,3 @@ artificial intelligence methodology to solve similar problems. Informed Search
 Algorithms, as the name suggest, must be informed about the current state by
 some parameter, which is called the heuristic. A heuristic, also called heuristic function, is a function that ranks alternatives in search algorithms at each
 branching step.
-In the following sections, first we’ll explain A* Search Algorithm and our Heuristic, Taxicab Distance. Then we’ll be giving some details about the implementation.
